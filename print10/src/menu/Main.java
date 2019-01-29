@@ -6,8 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner scanner = new Scanner(System.in);
-		int input = scanner.nextInt();
+		
 		System.out.println("1. ");
 		System.out.println("2. ");
 		System.out.println("3. ");
@@ -19,6 +18,9 @@ public class Main {
 		System.out.println("9. ");
 		System.out.println("10. ");
 		System.out.println("Choose an option: ");
+		f
+		Scanner scanner = new Scanner(System.in);
+		int input = scanner.nextInt();
 	}
 
 }
